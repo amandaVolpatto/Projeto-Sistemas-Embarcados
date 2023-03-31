@@ -17,6 +17,16 @@ retificadora.</p>
 <h3>Esquemático Tinker</h3>
 <img src="./img/esquema.png" alt="esquema">
 
+<h3>Funcionamento de um Retificador</h3>
+<p>Um retificador é um componente eletrônico que converte corrente alternada (AC) em corrente contínua (DC). Isso é feito utilizando um diodo retificador, que é um tipo de dispositivo semicondutor que permite que a corrente flua em apenas uma direção.
+
+O funcionamento de um retificador é relativamente simples. Quando uma corrente alternada é aplicada a um diodo retificador, ele bloqueia a corrente elétrica que flui em uma direção, enquanto permite a passagem da corrente elétrica que flui na outra direção. Isso significa que, em um ciclo da corrente alternada, a metade da onda que está em uma direção é bloqueada e a outra metade é permitida a passagem.
+
+Para converter a corrente alternada em corrente contínua, um retificador utiliza uma série de diodos retificadores. Quando a corrente alternada entra no circuito, os diodos bloqueiam a metade da onda que está em uma direção e permitem a passagem da outra metade. Os diodos são conectados em série e paralelo de modo a fornecer um caminho para a corrente elétrica fluir apenas em uma direção.
+
+Como resultado, a saída do retificador é uma corrente elétrica pulsante que flui apenas em uma direção. Para converter essa corrente pulsante em uma corrente contínua suave, um capacitor é frequentemente adicionado ao circuito. O capacitor armazena a energia da corrente pulsante e libera-a gradualmente para suavizar a saída de corrente contínua.
+
+Em resumo, o retificador é um componente eletrônico que converte a corrente alternada em corrente contínua utilizando diodos retificadores que permitem que a corrente flua em uma direção. O uso de um capacitor pode ajudar a suavizar a saída da corrente contínua./<p>
 <h1>🗒Componentes utilizados🗒</h1>
 <ul>
 <li a>Gerador de Função: Um componente gerador de função é um equipamento eletrônico que produz um sinal elétrico de forma periódica ou 
