@@ -51,7 +51,12 @@ em uma espiral ou moldado em uma forma específica.</li>
 <li>Led: Um LED (Light Emitting Diode) é um componente eletrônico que emite luz quando uma corrente elétrica passa 
 por ele. Ele é composto por um material semicondutor, geralmente uma combinação de materiais como o gálio, o arsênio 
 e o fósforo, que produzem luz quando estimulados por elétrons.</li>
-
+<li>TRABALHO FEITO NA AULA 19/05 O circuito Retificador com LM7805</li>
+<img src="./img/1primeira.png" alt="1primeira">
+<img src="./img/2segund.png" alt="2segund">
+<li>O circuito Retificador com LM7809 e com o divisor de tensão.</li>
+<img src="./img/3terceira.png" alt="3terceira">
+<img src="./img/4quarta.png" alt="4quarta">
 </ul>
 
 <h1>Muito obrigada/o!</h1>
